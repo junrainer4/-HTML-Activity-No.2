@@ -120,7 +120,7 @@ footer {
     text-align: center;
     padding: 50px 0;
     justify-content: end;
-    margin-top:50px;
+    margin-top: 50px;
     width: 100%;
     font-size: 20px;
     border: 0;
@@ -129,7 +129,7 @@ footer {
 
 
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
     .row {
         flex-direction: column;
     }
@@ -146,7 +146,7 @@ footer {
     }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 600px) {
     header {
         font-size: 22px;
         padding: 15px;
