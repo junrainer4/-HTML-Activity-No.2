@@ -113,7 +113,6 @@ button {
     line-height: 1.6em;
 }
 
-
 footer {
     background: #0ea400;
     color: white;
@@ -124,8 +123,6 @@ footer {
     width: 100%;
     font-size: 20px;
 }
-
-
 
 @media (max-width: 900px) {
     .row {
@@ -175,7 +172,8 @@ footer {
     }
 
     footer {
-        padding: 30px;
+        padding: 20px 0;
         font-size: 14px;
+        width: 100%;
     }
 }
